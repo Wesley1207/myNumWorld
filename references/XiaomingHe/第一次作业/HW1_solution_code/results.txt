@@ -1,0 +1,92 @@
+>> check_FE_solution_error_1D_linear
+
+basis_type =
+
+   101
+
+
+h_partition =
+
+  2.5000e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  2.3340e-003
+
+
+h_partition =
+
+  1.2500e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  5.8317e-004
+
+
+h_partition =
+
+  6.2500e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  1.4645e-004
+
+
+h_partition =
+
+  3.1250e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  3.6675e-005
+
+
+h_partition =
+
+  1.5625e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  9.1700e-006
+
+
+h_partition =
+
+  7.8125e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  2.2929e-006
+
+
+h_partition =
+
+  3.9063e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  5.7323e-007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

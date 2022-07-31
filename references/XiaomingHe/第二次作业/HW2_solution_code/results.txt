@@ -1,0 +1,77 @@
+>> check_FE_solution_error_1D_quadratic
+
+basis_type =
+
+   102
+
+
+h_partition =
+
+  2.5000e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  4.6597e-005
+
+
+h_partition =
+
+  1.2500e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  2.9918e-006
+
+
+h_partition =
+
+  6.2500e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  1.8901e-007
+
+
+h_partition =
+
+  3.1250e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  1.1869e-008
+
+
+h_partition =
+
+  1.5625e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  7.4356e-010
+
+
+h_partition =
+
+  7.8125e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  4.6623e-011
+
+
+h_partition =
+
+  3.9063e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  1.7784e-012
+
+>> 

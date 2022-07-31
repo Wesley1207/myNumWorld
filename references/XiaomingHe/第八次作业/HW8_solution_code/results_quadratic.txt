@@ -1,0 +1,80 @@
+>> check_Elasticity_FE_solution_error_triangle_quadratic
+
+h_partition =
+
+   1.2500e-01   1.2500e-01
+
+
+uh_infinity_error_8 =
+
+   1.4862e-03
+
+
+uh_L2_error_8 =
+
+   5.0157e-04
+
+
+uh_H1_error_8 =
+
+   3.3555e-02
+
+
+h_partition =
+
+   6.2500e-02   6.2500e-02
+
+
+uh_infinity_error_16 =
+
+   1.8944e-04
+
+
+uh_L2_error_16 =
+
+   6.2157e-05
+
+
+uh_H1_error_16 =
+
+   8.4431e-03
+
+
+h_partition =
+
+   3.1250e-02   3.1250e-02
+
+
+uh_infinity_error_32 =
+
+   2.3799e-05
+
+
+uh_L2_error_32 =
+
+   7.7475e-06
+
+
+uh_H1_error_32 =
+
+   2.1142e-03
+
+
+h_partition =
+
+   1.5625e-02   1.5625e-02
+
+
+uh_infinity_error_64 =
+
+   2.9797e-06
+
+
+uh_L2_error_64 =
+
+   9.6770e-07
+
+
+uh_H1_error_64 =
+
+   5.2876e-04

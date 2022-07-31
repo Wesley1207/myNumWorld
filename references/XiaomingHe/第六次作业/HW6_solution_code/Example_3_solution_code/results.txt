@@ -1,0 +1,280 @@
+>> check_FE_solution_error_triangle_linear
+
+basis_type =
+
+     1
+
+
+h_partition =
+
+  2.5000e-001  2.5000e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -2.1647e-003
+
+
+infinity_error_4 =
+
+  5.0127e-002
+
+
+L2_error_4 =
+
+  2.0520e-002
+
+
+H1_error_4 =
+
+  3.7129e-001
+
+
+h_partition =
+
+  1.2500e-001  1.2500e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -5.4686e-004
+
+
+infinity_error_8 =
+
+  1.3358e-002
+
+
+L2_error_8 =
+
+  5.1094e-003
+
+
+H1_error_8 =
+
+  1.8523e-001
+
+
+h_partition =
+
+  6.2500e-002  6.2500e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -1.3691e-004
+
+
+infinity_error_16 =
+
+  3.4487e-003
+
+
+L2_error_16 =
+
+  1.2760e-003
+
+
+H1_error_16 =
+
+  9.2559e-002
+
+
+h_partition =
+
+  3.1250e-002  3.1250e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -3.4236e-005
+
+
+infinity_error_32 =
+
+  8.7622e-004
+
+
+L2_error_32 =
+
+  3.1893e-004
+
+
+H1_error_32 =
+
+  4.6273e-002
+
+
+h_partition =
+
+  1.5625e-002  1.5625e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -8.5614e-006
+
+
+infinity_error_64 =
+
+  2.2084e-004
+
+
+L2_error_64 =
+
+  7.9727e-005
+
+
+H1_error_64 =
+
+  2.3136e-002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>> check_FE_solution_error_triangle_quadratic
+
+basis_type =
+
+     2
+
+
+h_partition =
+
+  2.5000e-001  2.5000e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -1.0773e-004
+
+
+infinity_error_4 =
+
+  8.3036e-004
+
+
+L2_error_4 =
+
+  3.1649e-004
+
+
+H1_error_4 =
+
+  1.1963e-002
+
+
+h_partition =
+
+  1.2500e-001  1.2500e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -1.4076e-005
+
+
+infinity_error_8 =
+
+  1.0956e-004
+
+
+L2_error_8 =
+
+  3.9278e-005
+
+
+H1_error_8 =
+
+  2.9874e-003
+
+
+h_partition =
+
+  6.2500e-002  6.2500e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -1.8025e-006
+
+
+infinity_error_16 =
+
+  1.4074e-005
+
+
+L2_error_16 =
+
+  4.9012e-006
+
+
+H1_error_16 =
+
+  7.4668e-004
+
+
+h_partition =
+
+  3.1250e-002  3.1250e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -2.2819e-007
+
+
+infinity_error_32 =
+
+  1.7835e-006
+
+
+L2_error_32 =
+
+  6.1243e-007
+
+
+H1_error_32 =
+
+  1.8667e-004
+
+
+h_partition =
+
+  1.5625e-002  1.5625e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -2.8710e-008
+
+
+infinity_error_64 =
+
+  2.2447e-007
+
+
+L2_error_64 =
+
+  7.6549e-008
+
+
+H1_error_64 =
+
+  4.6667e-005
+

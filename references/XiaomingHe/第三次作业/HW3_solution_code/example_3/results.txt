@@ -1,0 +1,361 @@
+>> check_FE_solution_error_1D_linear
+
+basis_type =
+
+   101
+
+
+h_partition =
+
+  2.5000e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -6.7940e-003
+
+
+infinity_error_4 =
+
+  2.0464e-002
+
+
+L2_error_4 =
+
+  1.1205e-002
+
+
+H1_error_4 =
+
+  1.0542e-001
+
+
+h_partition =
+
+  1.2500e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -1.6953e-003
+
+
+infinity_error_8 =
+
+  5.3323e-003
+
+
+L2_error_8 =
+
+  2.8009e-003
+
+
+H1_error_8 =
+
+  5.2748e-002
+
+
+h_partition =
+
+  6.2500e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -4.2362e-004
+
+
+infinity_error_16 =
+
+  1.3589e-003
+
+
+L2_error_16 =
+
+  7.0020e-004
+
+
+H1_error_16 =
+
+  2.6378e-002
+
+
+h_partition =
+
+  3.1250e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -1.0589e-004
+
+
+infinity_error_32 =
+
+  3.4285e-004
+
+
+L2_error_32 =
+
+  1.7505e-004
+
+
+H1_error_32 =
+
+  1.3190e-002
+
+
+h_partition =
+
+  1.5625e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -2.6473e-005
+
+
+infinity_error_64 =
+
+  8.6097e-005
+
+
+L2_error_64 =
+
+  4.3762e-005
+
+
+H1_error_64 =
+
+  6.5949e-003
+
+
+h_partition =
+
+  7.8125e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -6.6181e-006
+
+
+infinity_error_128 =
+
+  2.1572e-005
+
+
+L2_error_128 =
+
+  1.0940e-005
+
+
+H1_error_128 =
+
+  3.2975e-003
+
+
+h_partition =
+
+  3.9063e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+ -1.6545e-006
+
+
+infinity_error_256 =
+
+  5.3989e-006
+
+
+L2_error_256 =
+
+  2.7351e-006
+
+
+H1_error_256 =
+
+  1.6487e-003
+
+>> check_FE_solution_error_1D_quadratic
+
+basis_type =
+
+   102
+
+
+h_partition =
+
+  2.5000e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  4.8842e-005
+
+
+infinity_error_4 =
+
+  3.3279e-004
+
+
+L2_error_4 =
+
+  2.1051e-004
+
+
+H1_error_4 =
+
+  5.4213e-003
+
+
+h_partition =
+
+  1.2500e-001
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  3.0641e-006
+
+
+infinity_error_8 =
+
+  3.9288e-005
+
+
+L2_error_8 =
+
+  2.6148e-005
+
+
+H1_error_8 =
+
+  1.3534e-003
+
+
+h_partition =
+
+  6.2500e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  1.9154e-007
+
+
+infinity_error_16 =
+
+  4.7533e-006
+
+
+L2_error_16 =
+
+  3.2632e-006
+
+
+H1_error_16 =
+
+  3.3823e-004
+
+
+h_partition =
+
+  3.1250e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  1.1976e-008
+
+
+infinity_error_32 =
+
+  5.8395e-007
+
+
+L2_error_32 =
+
+  4.0774e-007
+
+
+H1_error_32 =
+
+  8.4550e-005
+
+
+h_partition =
+
+  1.5625e-002
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  7.4869e-010
+
+
+infinity_error_64 =
+
+  7.2344e-008
+
+
+L2_error_64 =
+
+  5.0962e-008
+
+
+H1_error_64 =
+
+  2.1137e-005
+
+
+h_partition =
+
+  7.8125e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  4.6999e-011
+
+
+infinity_error_128 =
+
+  9.0024e-009
+
+
+L2_error_128 =
+
+  6.3702e-009
+
+
+H1_error_128 =
+
+  5.2842e-006
+
+
+h_partition =
+
+  3.9063e-003
+
+
+maximum_error_at_all_nodes_of_FE =
+
+  2.4774e-012
+
+
+infinity_error_256 =
+
+  1.1223e-009
+
+
+L2_error_256 =
+
+  7.9634e-010
+
+
+H1_error_256 =
+
+  1.3211e-006
