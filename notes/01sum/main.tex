@@ -53,6 +53,8 @@
 % use this package to support & 
 \usepackage{amsmath}
 
+\usepackage[titletoc]{appendix}
+
 
 % use 4th order section
 % https://tex.stackexchange.com/questions/427836/create-new-subsubsubsection-in-custom-class-file
@@ -77,7 +79,7 @@
 \title{title}
 \author{author}
 
-\includeonly{example_ch1}
+% \includeonly{}
 
 
 \begin{document}
@@ -87,7 +89,18 @@
 \tableofcontents
 \newpage
 
-\include{ch1}
+\include{FDM}
+
+
+\begin{appendices}
+%\appendixpage
+\noappendicestocpagenum
+\addappheadtotoc
+
+
+\include{appxA}
+\end{appendices}
+
 % 参考文献
 \bibliographystyle{IEEEtran}
 \bibliography{references}
